@@ -1,0 +1,472 @@
+2025-02-24 12:04:42,891 - Calling on_part_begin with no data
+2025-02-24 12:04:42,892 - Calling on_header_field with data[42:61]
+2025-02-24 12:04:42,892 - Calling on_header_value with data[63:109]
+2025-02-24 12:04:42,892 - Calling on_header_end with no data
+2025-02-24 12:04:42,892 - Calling on_header_field with data[111:123]
+2025-02-24 12:04:42,892 - Calling on_header_value with data[125:134]
+2025-02-24 12:04:42,892 - Calling on_header_end with no data
+2025-02-24 12:04:42,892 - Calling on_headers_finished with no data
+2025-02-24 12:04:42,893 - Calling on_part_data with data[138:16384]
+2025-02-24 12:04:42,903 - Calling on_part_data with data[0:5843]
+2025-02-24 12:04:42,903 - Calling on_part_end with no data
+2025-02-24 12:04:42,904 - Calling on_end with no data
+2025-02-24 12:04:43,034 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\SHANMUKH\\AppData\\Local\\Temp\\tess_izmzqoje_input.PNG', 'C:\\Users\\SHANMUKH\\AppData\\Local\\Temp\\tess_izmzqoje', '--psm', '6', '-c', 'tessedit_char_whitelist="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789$%.,:-"', 'txt']
+2025-02-24 12:04:43,483 - OCR Extracted Text for receipt.png:
+EastRepairInc. RECEIPT
+1912HarvestLace
+NewYork,NY12250
+BiNTo ShipTo Recelpts US-001
+eons Same RecelptDatesuneTO19
+NewYork,NY12210 Cambeidge,MA12210 POs 222019
+Ouedate-2en72019
+areeeserirmonrtrmceawcunr
+Terermewoaeesnm
+e
+Subtotal 148.00
+SatesTax6.25% 9.06
+TermsCondilons
+Paymontlsduswihia15.deya
+Preasemake.chockspayableto:EastRepaisinc.
+
+
+2025-02-24 12:04:59,329 - Calling on_part_begin with no data
+2025-02-24 12:04:59,329 - Calling on_header_field with data[42:61]
+2025-02-24 12:04:59,329 - Calling on_header_value with data[63:110]
+2025-02-24 12:04:59,329 - Calling on_header_end with no data
+2025-02-24 12:04:59,329 - Calling on_header_field with data[112:124]
+2025-02-24 12:04:59,329 - Calling on_header_value with data[126:136]
+2025-02-24 12:04:59,329 - Calling on_header_end with no data
+2025-02-24 12:04:59,329 - Calling on_headers_finished with no data
+2025-02-24 12:04:59,329 - Calling on_part_data with data[140:16384]
+2025-02-24 12:04:59,339 - Calling on_part_data with data[0:16384]
+2025-02-24 12:04:59,340 - Calling on_part_data with data[0:16384]
+2025-02-24 12:04:59,340 - Calling on_part_data with data[0:11708]
+2025-02-24 12:04:59,340 - Calling on_part_end with no data
+2025-02-24 12:04:59,340 - Calling on_end with no data
+2025-02-24 12:04:59,402 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\SHANMUKH\\AppData\\Local\\Temp\\tess_bxwg5zf8_input.PNG', 'C:\\Users\\SHANMUKH\\AppData\\Local\\Temp\\tess_bxwg5zf8', '--psm', '6', '-c', 'tessedit_char_whitelist="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789$%.,:-"', 'txt']
+2025-02-24 12:04:59,706 - OCR Extracted Text for receipt2.jpg:
+HotelRestaurantandBar
+10166thAve
+NewYork,NY
+
+Tel:650-309-1992
+0925202012:54PM
+TERMINAL2
+1HendrickGinTonic $10.50
+1GingerMule $9.50
+1GlassCamusZin $24.00
+1TitosVodkaSoda $12.00
+Amount $60.76
+SUB-TOTAL $56.00
+TAX $4.76
+BALANCE $60.76
+CREDITCARDAUTHVISA443993
+TIP OO
+TOTAL OO
+Xe
+SIGNATURE
+
+
+2025-02-24 12:04:59,707 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-24 12:04:59,711 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-24 12:04:59,718 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-24 12:05:08,259 - Calling on_part_begin with no data
+2025-02-24 12:05:08,259 - Calling on_header_field with data[42:61]
+2025-02-24 12:05:08,259 - Calling on_header_value with data[63:110]
+2025-02-24 12:05:08,259 - Calling on_header_end with no data
+2025-02-24 12:05:08,259 - Calling on_header_field with data[112:124]
+2025-02-24 12:05:08,260 - Calling on_header_value with data[126:135]
+2025-02-24 12:05:08,260 - Calling on_header_end with no data
+2025-02-24 12:05:08,260 - Calling on_headers_finished with no data
+2025-02-24 12:05:08,260 - Calling on_part_data with data[139:16384]
+2025-02-24 12:05:08,260 - Calling on_part_data with data[0:29521]
+2025-02-24 12:05:08,260 - Calling on_part_end with no data
+2025-02-24 12:05:08,260 - Calling on_end with no data
+2025-02-24 12:05:08,297 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\SHANMUKH\\AppData\\Local\\Temp\\tess_524ppwc4_input.PNG', 'C:\\Users\\SHANMUKH\\AppData\\Local\\Temp\\tess_524ppwc4', '--psm', '6', '-c', 'tessedit_char_whitelist="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789$%.,:-"', 'txt']
+2025-02-24 12:05:08,564 - OCR Extracted Text for receipt3.png:
+YourCompanyInc,
+
+1234CompanySt UploadLogo
+
+CompanyTown,ST12345
+
+BittedTo
+
+CustomerName
+
+1234.CustomerSt. Receipts o0004s7
+
+CustomerTowmn,ST12345 Receiptdate 1-04-2023
+
+QTYDescription aimeamm
+
+1L00Replacementofsparkplugs 40.00$40.00
+
+2.00Brakepadreptacementfront 40.00$80.00
+
+4.00Wheolalignment 17.50$70.00
+
+.00Oilchangeandfiterreptacoment 40.00$40.00
+Subtotat $230.00
+SalesTax5% $11.50
+TotatUSD $241.50
+
+Hotes
+
+Thankyouforyourbusinesst
+
+
+2025-02-24 12:05:08,565 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-24 12:05:08,566 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-24 12:05:08,566 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-24 12:05:08,567 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-24 12:05:08,567 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-24 12:05:08,568 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-24 12:05:08,568 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-24 12:05:08,568 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-24 12:05:08,569 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-24 12:05:08,569 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-24 12:05:08,570 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-24 12:05:08,571 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-24 12:05:08,571 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-24 12:05:08,571 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-24 12:05:08,572 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-24 12:05:08,572 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-24 12:05:08,572 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-24 12:05:08,573 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-24 12:05:08,573 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-24 12:05:08,574 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-24 12:05:08,574 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-24 12:05:08,574 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-24 12:05:08,575 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-24 12:05:08,575 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-24 12:05:08,576 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-24 12:05:08,577 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-24 12:05:08,577 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-24 12:05:08,578 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:09:43,194 - Calling on_part_begin with no data
+2025-02-25 10:09:43,217 - Calling on_header_field with data[42:61]
+2025-02-25 10:09:43,217 - Calling on_header_value with data[63:114]
+2025-02-25 10:09:43,217 - Calling on_header_end with no data
+2025-02-25 10:09:43,217 - Calling on_header_field with data[116:128]
+2025-02-25 10:09:43,217 - Calling on_header_value with data[130:140]
+2025-02-25 10:09:43,218 - Calling on_header_end with no data
+2025-02-25 10:09:43,218 - Calling on_headers_finished with no data
+2025-02-25 10:09:43,218 - Calling on_part_data with data[144:16384]
+2025-02-25 10:09:43,218 - Calling on_part_data with data[0:32768]
+2025-02-25 10:09:43,218 - Calling on_part_data with data[0:16384]
+2025-02-25 10:09:43,219 - Calling on_part_data with data[0:16384]
+2025-02-25 10:09:43,220 - Calling on_part_data with data[0:16384]
+2025-02-25 10:09:43,221 - Calling on_part_data with data[0:12840]
+2025-02-25 10:09:43,221 - Calling on_part_end with no data
+2025-02-25 10:09:43,221 - Calling on_end with no data
+2025-02-25 10:09:43,427 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\SHANMUKH\\AppData\\Local\\Temp\\tess_xtkmq1c3_input.PNG', 'C:\\Users\\SHANMUKH\\AppData\\Local\\Temp\\tess_xtkmq1c3', '--psm', '6', '-c', 'tessedit_char_whitelist="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789$%.,:-"', 'txt']
+2025-02-25 10:09:43,875 - OCR Extracted Text for X00016469669.jpg:
+tanchayyee.
+
+te ABCHOTRADING:
+
+roa Wo.284,JALAHHARMONT372,
+
+ran TAMANDESAHARMONL :
+
+oa 81100,JOHORBAHRUOHOR
+
+an "07-355-2616 : ,
+
+SEER
+
+eDate2209f012029BOLLLPHe .
+
+-Cashler3-01 eins
+
+J:Desctiption QilyPrica.-Amount
+
+Ge RMRM.
+
+Palle 2185037.00
+
+aes
+
+Serene
+
+ha TotalAmount:"""ST00:
+. CashReceived: 401.00. :
+
+Change: 70,00:
+GoodsSoldareron-refundablef
+sesThonkYourss".
+"PleaseComeAgain U 00
+
+
+2025-02-25 10:09:43,882 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:09:43,882 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:09:43,883 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:09:43,884 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:09:43,886 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:09:43,886 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:09:43,886 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:09:43,887 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:09:43,888 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:09:43,890 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:09:43,890 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:09:43,891 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:09:43,892 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:09:43,894 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:09:43,895 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:09:43,896 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:09:43,897 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:09:43,897 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:09:43,898 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:09:43,899 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:09:43,900 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:09:43,900 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:09:43,901 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:09:43,902 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:09:43,905 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:10:13,018 - Calling on_part_begin with no data
+2025-02-25 10:10:13,019 - Calling on_header_field with data[42:61]
+2025-02-25 10:10:13,019 - Calling on_header_value with data[63:114]
+2025-02-25 10:10:13,019 - Calling on_header_end with no data
+2025-02-25 10:10:13,019 - Calling on_header_field with data[116:128]
+2025-02-25 10:10:13,019 - Calling on_header_value with data[130:140]
+2025-02-25 10:10:13,019 - Calling on_header_end with no data
+2025-02-25 10:10:13,019 - Calling on_headers_finished with no data
+2025-02-25 10:10:13,019 - Calling on_part_data with data[144:16384]
+2025-02-25 10:10:13,030 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:13,031 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:13,032 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:13,032 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:13,033 - Calling on_part_data with data[0:16344]
+2025-02-25 10:10:13,033 - Calling on_part_end with no data
+2025-02-25 10:10:13,033 - Calling on_end with no data
+2025-02-25 10:10:13,073 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\SHANMUKH\\AppData\\Local\\Temp\\tess_ov2rvd9__input.PNG', 'C:\\Users\\SHANMUKH\\AppData\\Local\\Temp\\tess_ov2rvd9_', '--psm', '6', '-c', 'tessedit_char_whitelist="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789$%.,:-"', 'txt']
+2025-02-25 10:10:13,444 - OCR Extracted Text for X00016469612.jpg:
+tanwoonyann te
+BOOKTA..KCTAMAHDAYASDNSHD a
+TIF
+NO.S$5,57$9,JALANSAGU18,
+
+im TAMANDAYA,
+
+61100JONORBAHRU,
+
+" JOHOR.
+AAA
+Wet
+
+Doctimentto:,TOOH6710H
+1Pates 25f1220188:13:39PHH
+Cashiers HANIS
+Member:
+CASHBILL
+copewesepRICEbie"CAn
+qr RH an
+
+GssesolonereMOceNiGcAYMODeniN
+
+inco8 9.002000. 9.00,
+Total: 9.00
+Rour-dingAdjustment: on
+Round.:dTotalRM: 9,60
+CHANGE ox
+
+. doo
+
+GOODSSOLDAREHOTRETURHAREETH
+EXCHANGEABLE
+E.BSesahaeaey
+STs,SiRtUHEt
+THANKYOU -
+: PLEASECOtEAGAINI wo
+7 a, at
+
+
+2025-02-25 10:10:13,446 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:10:13,447 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:10:13,447 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:10:13,448 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:10:13,452 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:10:13,453 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:10:13,456 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:10:13,457 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:10:13,457 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:10:13,459 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:10:13,463 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:10:13,464 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:10:13,466 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:10:13,466 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:10:13,470 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:10:31,120 - Calling on_part_begin with no data
+2025-02-25 10:10:31,120 - Calling on_header_field with data[42:61]
+2025-02-25 10:10:31,120 - Calling on_header_value with data[63:117]
+2025-02-25 10:10:31,120 - Calling on_header_end with no data
+2025-02-25 10:10:31,120 - Calling on_header_field with data[119:131]
+2025-02-25 10:10:31,120 - Calling on_header_value with data[133:143]
+2025-02-25 10:10:31,120 - Calling on_header_end with no data
+2025-02-25 10:10:31,120 - Calling on_headers_finished with no data
+2025-02-25 10:10:31,121 - Calling on_part_data with data[147:16384]
+2025-02-25 10:10:31,131 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,137 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,138 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,138 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,139 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,140 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,140 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,141 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,141 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,142 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,142 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,142 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,143 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,143 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,143 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,144 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,145 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,145 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,145 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,146 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,146 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,146 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,147 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,147 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,147 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,147 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,148 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,148 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,148 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,149 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,149 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,149 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,149 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,150 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,150 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,151 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,152 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,152 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,152 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,153 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,153 - Calling on_part_data with data[0:32768]
+2025-02-25 10:10:31,154 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,154 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,154 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,155 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,155 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,155 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,155 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,156 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,156 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,156 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,157 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,157 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:31,157 - Calling on_part_data with data[0:10420]
+2025-02-25 10:10:31,157 - Calling on_part_end with no data
+2025-02-25 10:10:31,157 - Calling on_end with no data
+2025-02-25 10:10:31,355 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\SHANMUKH\\AppData\\Local\\Temp\\tess_nd7meuw4_input.PNG', 'C:\\Users\\SHANMUKH\\AppData\\Local\\Temp\\tess_nd7meuw4', '--psm', '6', '-c', 'tessedit_char_whitelist="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789$%.,:-"', 'txt']
+2025-02-25 10:10:32,310 - OCR Extracted Text for X51005301667(1).jpg:
+STeSTGHTROOMGABEERY.SDNP" eerie
+eat 1INOY28TALANSASTANATa Peres
+aSBANDARSBURTT:RAUAKATye8coee
+LSS OREANG-SBUANGOR:D-B,MAIX Pence
+veefoet338seGSTN,1000584089000. i306:
+CueeACREDIENOPE,900geee
+oSGashiersANGEUAY.Heoverot0fecepse
+orfeBIlleDaterS5201H720WenEeSBS
+eBETLStart:207112017.103:55:07:2Mscafe
+eName:-932SESWARANGO1263694007.SiovonSoeeeie.
+JieAddresg72oSeSasSoeeisRseeye
+YeARERERSLCS03158:0.093,0.EEESERe
+-fM050SQUAREBEACK:FRAMB.s00: CON
+eee
+ASSetyicesCliatgessgroSSSRMCOsgggelnehs
+fopceme:20 Sipe parece
+Vi lianliNou,Please:coneagaiiy. PSOE
+SBANK:ACCMBBS5128:4851CO11g07enaOLenchae
+21BANKCACCMBBi56260-4739te7daeysyosOee.
+s,AGSTStinmatiy:."AmountCRME,NSeORy.oecee
+AESROs60e8hekbpwiksSTCGREoARBEeeeeTaE,
+
+
+2025-02-25 10:10:32,320 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:10:32,331 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:10:50,256 - Calling on_part_begin with no data
+2025-02-25 10:10:50,256 - Calling on_header_field with data[42:61]
+2025-02-25 10:10:50,256 - Calling on_header_value with data[63:114]
+2025-02-25 10:10:50,256 - Calling on_header_end with no data
+2025-02-25 10:10:50,256 - Calling on_header_field with data[116:128]
+2025-02-25 10:10:50,256 - Calling on_header_value with data[130:140]
+2025-02-25 10:10:50,256 - Calling on_header_end with no data
+2025-02-25 10:10:50,256 - Calling on_headers_finished with no data
+2025-02-25 10:10:50,256 - Calling on_part_data with data[144:16384]
+2025-02-25 10:10:50,267 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:50,278 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:50,289 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:50,290 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:50,290 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:50,291 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:50,292 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:50,292 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:50,292 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:50,300 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:50,312 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:50,314 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:50,315 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:50,315 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:50,316 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:50,317 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:50,317 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:50,318 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:50,319 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:50,319 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:50,319 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:50,320 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:50,320 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:50,320 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:50,321 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:50,321 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:50,321 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:50,321 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:50,322 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:50,322 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:50,322 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:50,323 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:50,323 - Calling on_part_data with data[0:16384]
+2025-02-25 10:10:50,323 - Calling on_part_data with data[0:3970]
+2025-02-25 10:10:50,323 - Calling on_part_end with no data
+2025-02-25 10:10:50,324 - Calling on_end with no data
+2025-02-25 10:10:50,445 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\SHANMUKH\\AppData\\Local\\Temp\\tess_geepjq4x_input.PNG', 'C:\\Users\\SHANMUKH\\AppData\\Local\\Temp\\tess_geepjq4x', '--psm', '6', '-c', 'tessedit_char_whitelist="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789$%.,:-"', 'txt']
+2025-02-25 10:10:50,743 - OCR Extracted Text for X51005268400.jpg:
+ARESTORANHASSANBISTIRG:c-
+USNOF2E1oTSALANSSEPTASPRIMAOfecSeroe
+
+
+2025-02-25 10:10:50,745 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-02-25 10:10:50,746 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+2025-03-28 00:00:09,423 - Calling on_part_begin with no data
+2025-03-28 00:00:09,435 - Calling on_header_field with data[42:61]
+2025-03-28 00:00:09,435 - Calling on_header_value with data[63:115]
+2025-03-28 00:00:09,435 - Calling on_header_end with no data
+2025-03-28 00:00:09,435 - Calling on_header_field with data[117:129]
+2025-03-28 00:00:09,435 - Calling on_header_value with data[131:140]
+2025-03-28 00:00:09,435 - Calling on_header_end with no data
+2025-03-28 00:00:09,435 - Calling on_headers_finished with no data
+2025-03-28 00:00:09,436 - Calling on_part_data with data[144:6723]
+2025-03-28 00:00:09,436 - Calling on_part_end with no data
+2025-03-28 00:00:09,436 - Calling on_end with no data
+2025-03-28 00:00:09,756 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\SHANMUKH\\AppData\\Local\\Temp\\tess_tc1o4p0i_input.PNG', 'C:\\Users\\SHANMUKH\\AppData\\Local\\Temp\\tess_tc1o4p0i', '--psm', '6', '-c', 'tessedit_char_whitelist="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789$%.,:-"', 'txt']
+2025-03-28 00:00:11,245 - OCR Extracted Text for temp_receipt4.png:
+cnTyor-Fauexta
+2enGeTELUT
+recta eorerzees
+TemsectienBooe-22t104
+DeddBysecsesoctZASE-ELLIOTE
+GheeeRanbezaccdOEHS,
+Tasont0
+tarecs
+weaypo-Tax shee
+ecienx me
+Tear 18
+TaneTfoknerTaret
+
+
+2025-03-28 00:00:11,258 - Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
