@@ -5,7 +5,7 @@
 **Amplifying Human Potential Using AI** - TaxMate is a smart, AI-powered tax assistant designed to automate the tax filing process. It simplifies complex calculations, identifies deductions, and minimizes errors, making tax filing more efficient and accessible for individuals and businesses.
 
 <p align="center">
-    <img width="400" src="https://github.com/user-attachments/assets/78fc0bdb-c06d-4eda-99b2-2b84605b37dc">
+    <img width="400" src="https://github.com/user-attachments/assets/0881158f-dc0d-4f08-9d46-ba072d1f0227">
 
 --- 
 
@@ -15,7 +15,6 @@
 - **OCR for Document Parsing** - Extracts income details from tax forms, salary slips, and invoices.  
 - **Error Detection & Deduction Identification** - AI-driven insights to minimize errors and optimize tax benefits.  
 - **Secure & Compliant** - Data encryption, OAuth2 authentication, and compliance with tax regulations.  
-- **Multi-Country Support** - Configurable tax rules for different countries.  
 
 ---
 
@@ -23,39 +22,31 @@
 
 | Component          | Technologies Used |
 |-------------------|------------------|
-| **Programming Language**      | Python |
-| **Frontend**      | React.js, Next.js |
-| **Backend**       | FastAPI, Flask |
-| **Database**      | PostgreSQL, SQLite |
-| **AI/ML**        | Scikit-Learn, GPT-4, BERT, OpenAI API |
-| **OCR**          | Tesseract OCR, Google Vision API |
-| **Security**      | OAuth2, AES Encryption |
-| **Deployment**    | Docker, Kubernetes, AWS/GCP |
+| **Programming Language** | Python |
+| **Backend** | Flask, FastAPI |
+| **Frontend** | Flask (UI) |
+| **Database** | SQLite |
+| **AI/ML** | Tesseract OCR, OpenAI API, Regex-based Extraction |
+| **Security** | OAuth2, AES Encryption |
+| **Deployment** | Docker, AWS |
 
 ---
 ## 📂 Project Structure
 
 ```
-📁 taxmate
+📁 TaxMate
 │── 📄 README.md
 │── 📁 backend
-│   │── app.py  # FastAPI backend
-│   │── models.py  # Tax calculation models
-│   │── routes.py  # API endpoints
-│   │── database.py  # Database configurations
+│   │── __init__.py
+│   │── models/
+│   │   │── database.py  # Database configurations
+│   │   │── main.py  # Core processing logic
+│   │   │── receipt_ocr.log  # OCR processing logs
+│   │   │── tax_data.db  # Tax-related stored data
+│   │   │── temp_receipt4.png  # Sample test image for OCR
+│   │   ├── __pycache__/  # Compiled Python files
 │── 📁 frontend
-│   │── src/
-│   │── components/
-│   │── pages/
-│── 📁 ml-models
-│   │── tax_deductions.py  # ML model for deductions
-│   │── error_checker.py  # AI-powered error detection
-│── 📁 data
-│   │── sample_docs/  # Sample tax forms
-│── 📁 tests
-│   │── test_api.py  # Backend tests
-│   │── test_ui.py  # Frontend tests
-│── 📄 Dockerfile
+│   │── app.py  # Main frontend script
 ```
 
 ---
@@ -76,7 +67,7 @@ pip install -r requirements.txt
 #### Frontend
 ```sh
 cd frontend
-npm install
+pip install flask
 ```
 
 ### 3️⃣ Run the Application
@@ -95,34 +86,20 @@ npm run dev
 Open **`http://localhost:3000`** in your browser.
 
 ---
-## 🎯 API Endpoints
+## 🎯 API Endpoints  
 
-| Endpoint | Method | Description |
-|----------|--------|-------------|
-| `/calculate-tax` | POST | Computes tax based on user inputs |
-| `/get-deductions` | GET | Returns AI-suggested deductions |
-| `/validate-tax` | POST | Checks for errors in tax filing |
-| `/upload-docs` | POST | OCR-based document parsing |
-| `/ask-taxbot` | POST | AI chatbot for tax queries |
-
----
-## 🛠️ Testing
-
-Run unit and integration tests:
-```sh
-pytest tests/
-```
+| Endpoint         | Method | Description                            |
+|-----------------|--------|----------------------------------------|
+| `/extract-text` | POST   | Extracts text from uploaded invoice   |
+| `/calculate-tax` | POST   | Computes tax based on user inputs     |
+| `/get-deductions` | GET   | Returns AI-suggested deductions      |
+| `/validate-tax`  | POST   | Checks for errors in tax filing      |
 
 ---
 ## 🚀 Deployment
 ### Using Docker:
 ```sh
 docker-compose up --build
-```
-
-### Using Kubernetes:
-```sh
-kubectl apply -f k8s/
 ```
 
 ---
